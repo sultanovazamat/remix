@@ -6,7 +6,7 @@ pip install -r requirements.txt
 ## Usage
 To run:  
 ```
-python main.py </path/to/first/image> </path/to/second/image> --second_image_weight <weight> --backend <backend>
+python main.py </path/to/first/image> </path/to/second/image> --second_image_weight <weight> --backend cuda:0
 ```
 
 This should create result.jpg in the root of the repo folder.  

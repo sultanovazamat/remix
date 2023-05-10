@@ -62,3 +62,12 @@ Boromir to Wasowski
 Wasowski to Boromir
 
 ![Wasowski to Boromir](approaches/image-mixing/imgs/wasowski2boromir.png)
+
+### Other approaches
+
+There are more sophsticated approaches like:
+- https://github.com/zyxElsa/InST
+- https://textual-inversion.github.io/
+- https://github.com/ZeConloss/ZeCon
+
+But due to limitations of free computational resources and time it was hard to finetune them, so that results for them are not present.
