@@ -7,7 +7,7 @@ Image Style Transfer a.k.a Midjourney Remix
 
 Gigachad to Shrek
 
-![Gigachad to Shrek](approaches/stable-diffusion-remix/imgs/gigachad-to-shrek.png)
+![Gigachad to Shrek](approaches/stable-diffusion-remix/imgs/gigachad2shrek.png)
 
 
 ### Aproach 2: Stable diffusion image variations - image mixup
