@@ -1,9 +1,3 @@
-# Stable Diffusion Remix
-
-![SD Remix](imgs/all-results.png)
-
-This script attempts to reproduce the Midjourney Remix.
-
 ## Usage
 
 By default, the script produces remixed samples in the current directory. Note that this method requires the upstream version of the diffusers library.

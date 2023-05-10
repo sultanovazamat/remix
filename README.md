@@ -26,6 +26,39 @@ Wasowski to Boromir
 ![Wasowski to Boromir](approaches/stable-diffusion-remix/imgs/wasowski2boromir.png)
 
 
-### Aproach 2: Stable diffusion image variations - image mixup
+### Aproach 2: Stable diffusion text-guided remix
 
-### Aproach 3: Stable diffusion text-guided remix
+Gigachad to Shrek
+
+![Gigachad to Shrek](approaches/img2text_text2img/imgs/gigachad2shrek.png)
+
+Shrek to Gigachad
+
+![Shrek to Gigachad](approaches/img2text_text2img/imgs/shrek2gigachad.png)
+
+Boromir to Wasowski
+
+![Boromir to Wasowski](approaches/img2text_text2img/imgs/boromir2wasowski.png)
+
+Wasowski to Boromir
+
+![Wasowski to Boromir](approaches/img2text_text2img/imgs/wasowski2boromir.png)
+
+
+### Aproach 3: Stable diffusion image variations - image mixup
+
+Gigachad to Shrek
+
+![Gigachad to Shrek](approaches/image-mixing/imgs/gigachad2shrek.png)
+
+Shrek to Gigachad
+
+![Shrek to Gigachad](approaches/image-mixing/imgs/shrek2gigachad.png)
+
+Boromir to Wasowski
+
+![Boromir to Wasowski](approaches/image-mixing/imgs/boromir2wasowski.png)
+
+Wasowski to Boromir
+
+![Wasowski to Boromir](approaches/image-mixing/imgs/wasowski2boromir.png)
